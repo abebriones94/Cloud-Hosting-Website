@@ -7,3 +7,4 @@ Leared various new CSS techniques during this build such as animations, keyframe
 Overall, the website build was very helpful in gaining a better understanding of CSS. I intend to use some of this code to create a personal website with new animations and media queries. 
 
 The website will be deployed to Netlify 
+![Cloud_Hosting_WebAppPic](https://user-images.githubusercontent.com/108318629/213906308-79b6d60f-2e11-4b29-9e4a-cfb69a27da15.jpg)
